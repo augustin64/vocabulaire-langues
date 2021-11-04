@@ -80,7 +80,7 @@ def question(word, solution, sleep_time=10, prompt1="\n", prompt2="➜ ", end1="
     return 0.0
 
 
-def quiz(dictionnary, sleep_time=1):
+def quiz(dictionnary, sleep_time=7):
     score = 0
     dic_list = list(dictionnary.keys())
     l = len(dic_list)
