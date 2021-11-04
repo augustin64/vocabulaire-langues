@@ -5,10 +5,15 @@ import time
 import json
 import random
 import pyttsx3
+import platform
+import subprocess
 from playsound import playsound
 
 engine = pyttsx3.init()
 engine.setProperty('rate', 125)
+
+if platform.system() == 'Windows':
+    import msvcrt
 
 try:
     import enquiries
@@ -22,6 +27,20 @@ except:  # On offre une autre option si le module enquiries n'est pas installé
         )
         response = int(input("> "))
         return options[response - 1]
+
+def timed(timeout=10):
+    start_time = time.time()
+    if platform.system() != 'Windows' :
+        if subprocess.call(f"read -t {timeout}", shell=True) == 0:
+            return start_time - time.time() + timeout
+    else :
+        endtime = time.monotonic() + timeout
+        while time.monotonic() < endtime:
+            if msvcrt.kbhit():
+                if result[-1] == '\r':
+                    return timeout - (time.time() - start_time)
+            time.sleep(0.04)
+    return 0
 
 def pronounce(raw_word):
     """pronounces the given word"""
@@ -47,22 +66,30 @@ def speak(word):
     engine.say(word)
     engine.runAndWait()
 
-def question(word, solution, sleep_time=10):
-    print(f"\n{word} ?")
-    time.sleep(sleep_time)
-    print(f"➜ {solution}")
-    return 0
+def question(word, solution, sleep_time=10, prompt1="\n", prompt2="➜ ", end1=" ?", end2=""):
+    print(f"{prompt1}{word}{end1}")
+    perf = round(timed(timeout=sleep_time), 5)
+    if sleep_time - perf < 0.05:
+        time.sleep(sleep_time)
+        perf = 0.0
+    print(f"{prompt2}{solution}{end2}")
+
+    if perf != 0.0 :
+        print(f"\x1b[0;32;40m+{perf}\x1b[0m")
+        return perf
+    return 0.0
 
 
-def quiz(dictionnary, sleep_time=10):
+def quiz(dictionnary, sleep_time=1):
     score = 0
     dic_list = list(dictionnary.keys())
+    l = len(dic_list)
     while len(dic_list) > 0:
         key = dic_list.pop(random.randint(0, len(dic_list) - 1))
         if random.randint(0, 1) == 1:
-            score += question(key, dictionnary[key], sleep_time=sleep_time)
+            score += question(key, dictionnary[key], sleep_time=sleep_time, prompt1=f"\n({l-len(dic_list)}/{l}) ")
         else:
-            score += question(dictionnary[key], key, sleep_time=sleep_time)
+            score += question(dictionnary[key], key, sleep_time=sleep_time, prompt1=f"\n({l-len(dic_list)}/{l}) ")
         time.sleep(5)
     print(f"score: {score}")
 
