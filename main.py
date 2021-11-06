@@ -9,8 +9,8 @@ import platform
 import subprocess
 from playsound import playsound
 
-engine = pyttsx3.init()
-engine.setProperty("rate", 125)
+# engine = pyttsx3.init()
+# engine.setProperty("rate", 125)
 
 if platform.system() == "Windows":
     import msvcrt
@@ -90,6 +90,7 @@ def quiz(dictionnary, sleep_time=7):
     score = 0
     dic_list = list(dictionnary.keys())
     l = len(dic_list)
+    SCORE_MIN = l*sleep_time/4
     while len(dic_list) > 0:
         key = dic_list.pop(random.randint(0, len(dic_list) - 1))
         if random.randint(0, 1) == 1:
@@ -106,12 +107,13 @@ def quiz(dictionnary, sleep_time=7):
                 sleep_time=sleep_time,
                 prompt1=f"\n({l-len(dic_list)}/{l}) ",
             )
-        time.sleep(4)
-    if score < l * sleep_time / 5:
+        time.sleep(3)
+    score = round(score, 5)
+    if score < SCORE_MIN:
         color = "\x1b[0;31;40m"
     else:
         color = "\x1b[0;32;40m"
-    print(f"score: {color}{score}\x1b[0m")
+    print(f"score: {color}{score}\x1b[0m (min {SCORE_MIN})")
 
 
 def linea_quiz(dictionnary):
