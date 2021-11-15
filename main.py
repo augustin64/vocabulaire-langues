@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import os
+import sys
 import time
 import json
 import random
@@ -14,6 +15,8 @@ from playsound import playsound
 
 if platform.system() == "Windows":
     import msvcrt
+else :
+    from select import select
 
 try:
     import enquiries
@@ -33,16 +36,23 @@ except:  # On offre une autre option si le module enquiries n'est pas installé
 def timed(timeout=10):
     start_time = time.time()
     if platform.system() != "Windows":
-        if subprocess.call(f"read -t {timeout}", shell=True) == 0:
-            return start_time - time.time() + timeout
+        sys.stdin.flush()
+        rlist, _, _ = select([sys.stdin], [], [], timeout)
+        if rlist:
+            s = sys.stdin.readline()
+            return timeout - (time.time() - start_time)
+        return 0
     else:
+        sys.stdout.flush()
         endtime = time.monotonic() + timeout
+        result = []
         while time.monotonic() < endtime:
             if msvcrt.kbhit():
+                result.append(msvcrt.getwche())
                 if result[-1] == "\r":
                     return timeout - (time.time() - start_time)
             time.sleep(0.04)
-    return 0
+        return 0
 
 
 def pronounce(raw_word):
