@@ -4,7 +4,7 @@ import os
 import time
 import json
 import random
-import pyttsx3
+# import pyttsx3
 import platform
 import subprocess
 from playsound import playsound
