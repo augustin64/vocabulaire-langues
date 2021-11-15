@@ -8,7 +8,7 @@ import random
 # import pyttsx3
 import platform
 import subprocess
-from playsound import playsound
+# from playsound import playsound
 
 # engine = pyttsx3.init()
 # engine.setProperty("rate", 125)
