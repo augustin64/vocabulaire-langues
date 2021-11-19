@@ -1,5 +1,5 @@
 # mots allemand
-## Energie und Energiewende:
+## Energie und Energiewende
 |||
 |:---|:---|
 | die Energie (n) | l'énergie |
@@ -13,7 +13,7 @@
 | Energie verschwenden | gaspiller l'énergie |
 | der Rohstoff (e) | la matière première |
 | reich / arm an (+D) Rohstoffen | riche en matières premières |
-| das Erdöl  | le pétrole |
+| das Erdöl | le pétrole |
 | das Schieferöl | le schiste bitumineux |
 | die hydraulische Frakturierung | la fracturation hydraulique |
 | der fossile Brennstoff (e) | le combustible fossile |
@@ -58,7 +58,7 @@
 | verursachen | causer provoquer |
 | aus/lösen | déclencher provoquer |
 | etwas zur Folge haben | avoir quelque chose pour conséquence |
-## Umweltschutz und Klimawandel:
+## Umweltschutz und Klimawandel
 |||
 |:---|:---|
 | die Umwelt | l'environnement |

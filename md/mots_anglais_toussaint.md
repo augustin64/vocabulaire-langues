@@ -1,5 +1,5 @@
 # mots anglais toussaint
-## New technologies, innovation, space and science:
+## New technologies, innovation, space and science
 |||
 |:---|:---|
 | a thorny/tricky issue | un problème épineux/délicat |
@@ -18,7 +18,7 @@
 | disruptive | pertubateur/trice |
 | to benefit someone | profiter à/bénéficier à quelqu'un |
 | to benefit from something | bénéficier de quelque chose |
-## Bioethics:
+## Bioethics
 |||
 |:---|:---|
 | a cell | une cellule |
@@ -61,6 +61,9 @@
 | the precautionary principle | le principe de précaution |
 | long-term effects/short-term effects | effets à long/court terme |
 | in the long/short run | à long/court terme |
+## Research and technology
+|||
+|:---|:---|
 | a scientist | un/e scientifique (la profession) |
 | scientific | (adj) scientifique |
 | scientific progress | les progrès scientifiques |
@@ -104,6 +107,9 @@
 | a laptop | un ordinateur portable |
 | wireless | sans-fil |
 | a sensor | un capteur |
+## Space
+|||
+|:---|:---|
 | National Aeronautics and Space Administration | NASA |
 | European Space Agency | ESA |
 | the conquest of space | la conquête de l'espace |
@@ -121,7 +127,7 @@
 | remote-controlled | télécommandé |
 | satnav (satellite navigation) | le GPS (global positioning system) |
 | an astronaut/a cosmonaut | un astronaute/un cosmonaute |
-## Computer science:
+## Computer science
 |||
 |:---|:---|
 | a computer scientist | un informaticien |
@@ -150,6 +156,9 @@
 | to keep tabs on someone/to keep an eye on someone | avoir quelqu'un à l'oeil |
 | to spy on someone/to snoop on someone | espionner quelqu'un |
 | to track someone | suivre quelqu'un à la trace |
+## The Internet and new technologies
+|||
+|:---|:---|
 | the Internet of Things (IoT) | les objets connectés |
 | home automation | la domotique |
 | information highways | les autoroutes de l'information |
@@ -185,7 +194,7 @@
 | cyber theft/data theft | le vol de données électroniques |
 | identity theft | le vol d'identité |
 | Microsoft Wikipedia Google | Microsoft Wikipédia Google |
-## Hacking:
+## Hacking
 |||
 |:---|:---|
 | digital piracy/online piracy | le téléchargement illégal de musiques films applications etc |
