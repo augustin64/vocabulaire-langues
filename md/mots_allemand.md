@@ -121,7 +121,7 @@
 | das Strassenetz | le réseau routier |
 | die Autobahn (en) | l'autoroute |
 | der Güterverkehr | le transport de marchandises |
-| der Verkehrunfall (¨e) | l'accident decirculation |
+| der Verkehrunfall (¨e) | l'accident de circulation |
 | das Verkehrsmittel (-) | le moyen de transport |
 | die öffentlichen Verkehrsmittel | les transports en commun |
 | der Zug (¨e) | le train |
@@ -139,7 +139,7 @@
 | die Automobilindustrie | l'industrie automobile |
 | der Autohersteller (-) - der Autobauer (-) | le constructeur automobile |
 | der LKW (s) - der PKW (s) | le camion - la voiture (personnelle) |
-| der Katalysor | le pot catalytique |
+| der Katalysator | le pot catalytique |
 | die Umtauschprämie (n) | la prime à l'échange |
 | die Tankstelle (n) | la station-service |
 | der Diesel | le diesel |
@@ -170,3 +170,115 @@
 | der Radweg (e) | la piste cyclable |
 | die Verkehrswende | la transition / révolution dans les transports |
 | der Hafen (¨) | le port |
+## Bevölkerung und Migration
+|||
+|:---|:---|
+| das Volk (¨er) | le peuple |
+| das meistbevölkerte Land | le pays le plus peuplé |
+| ein dicht besiedeltes Land | un pays densément peuplé |
+| der Deutschstammige (n) | l'Allemand de souche |
+| der Einwohner (-) | l'habitant |
+| die Staatsbürgerschaft / die Staatsangehörigkeit | la nationalité |
+| die Arbeitskräfte | la main d'oeuvre |
+| das Ballungsgebeit (e) | l'agglomération la zone à forte densité urbaine |
+| die Demographie | la démographie |
+| der Meinungsforscher (-) | le sondeur |
+| zur Welt kommen - geboren werden | naître venir au monde |
+| die Lebenswartung | l'espérance de vie |
+| Die Bevölkerung altert | la population vieillit |
+| Es gibt mehr Sterbefälle als Geburten | il y a plus de décès que de naissances |
+| die Geburtenrate (n) | le taux de natalité |
+| die Sterberate (n) | le taux de mortalité |
+| die Fruchbarkeitsziffer beträgt 1.5 | le taux de fécondité s'élève à 1.5 |
+| der Steubeüberschuss (¨sse) | l'excédent de mortalité |
+| das Geburtendefizit (e) | le déficit de naissances |
+| aus/gleichen (i i) | compenser |
+| Die Wanderung gleicht das Geburtendefizit aus. | L'immigration compense le déficit de naissances. |
+| der Flüchtling (e) | le réfugié |
+| der Vertriebene (n) | l'expulsé |
+| der Gastarbeiter (-) | le travailleur immigré |
+| der Bürgerkrieg (e) | la guerre civile |
+| die Zuwanderung | l'immigration |
+| der Zuwanderer | l'immigré |
+| zu/wandern | immigrer |
+| der Migrant (en en) | le migrant |
+| die Herkunft | l'origine |
+| das Herkunftsland (¨er) | le pays d'origine |
+| stammen aus +D | être originaire de |
+| das Asyl (e) | l'asile |
+| der Asylbewerber (-) / der Asylant (en en) | le demandeur d'asile |
+| das Asyverfahren (-) | la procédure d'asile |
+| Asyl Beantragen | faire une demande d'asile |
+| das Bleiberecht (e) | le droit de séjour |
+| der Flüchtligsstrom (¨e) | le flux de réfugiés |
+| die Immigrationswelle (n) | la vague d'immigration |
+| die Aufnahme (n) | l'accueil l'acceptation |
+| das Willkommen (-) | la bienvenue l'accueil |
+| Asylanten auf/nehmen (a o) | accepter des demandeurs d'asile |
+| Asylanten empfangen (i a  ä) | accueillir des demandeurs d'asile |
+| die Öffnung der Grenzen | l'ouverture des frontières |
+| der Fluchtgrund (¨e) | le motif de fuite |
+| fliehen (o o) | fuir |
+| unter Armut leiden | souffrir de la misère |
+| aus religiösen/ politischen/ wirtschaftlichen Gründen | pour des raisons relig./ pol./ éco. |
+| der Wirtschatsmigrant (en en) | le migrant économique |
+| die politische und religiöse Verfolgung | la prosécution politique et religieuse |
+| die Schmuggler der Schlepper | le passeur |
+| ertrinken (a u) + ist | se noyer |
+| einen Asylantrag ab/lehnen | repousser une demande d'asile |
+| die Abschiebung (en) | la reconduite à la frontière |
+## die Arbeitswelt
+|||
+|:---|:---|
+| die Arbeit (en) | le travail |
+| der Arbeitsmarkt (¨e) | le marché du travail |
+| der Beruf (e) | la profession le métier |
+| der Arbeiter | l'ouvrier |
+| der Facharbeiter (-) | l'ouvrier spécialisé |
+| der Arbeitgeber (-) | l'employeur |
+| der Arbeitnehmer (-) | le salarié |
+| die Arbeitskräfte (pl.) | la main d'oeuvre |
+| der Mitarbeiter (-) | le collaborateur |
+| berufstätig / arbeitstätig sein | être actif |
+| die Beschäftigung | l'occupation l'emploi |
+| der Angestellte (adj) | l'employé (catégorie) |
+| sich um eine Stelle bewerben (a o i) | être candidat à un emploi |
+| jdn ein/ stellen | embaucher |
+| die Entlassung (en) | le licenciement |
+| jdm kündigen | congédier licencier qqn |
+| kündigen (intransitif) | démissioner |
+| Arbeitsplätze ab/ schaffen (u a) | supprimer des emplois |
+| der Arbeitslose (adj) | le chômeur |
+| die Arbeitslosigkeit | le chômage |
+| die Arbeitslosenquote (n) | le taux de chômage |
+| die Vollbeschäftigung | le plein-emploi |
+| der Fachkräftemangel | le manque de main d'oeuvre qualifiée |
+| die Gewerkschaft (en) | le syndicat |
+| der Konsens (sing.) | le consensus |
+| die Forderung (en) | la revendication |
+| etwas gewähren | accorder |
+| der Lohn (¨e) - das Gehalt (¨er) | le salaire |
+| das Einkommen (-) | le revenu |
+| eine Lohnerhöhung verlangen | exiger une augmentation de salaire |
+| der Mindestlohn (¨e) | le salaire minimum |
+| die Einführung der 35-STunden-Woche | l'introduction de la semaine de 35h |
+| Die Arbeitszeitverkürzung wurde verweigert | La réduction du temps de travail a été refusée |
+| die Arbeitsbedingungen (pl.) | les conditions de travail |
+| die Fließbandarbeit | le travail à la chaîne |
+| der Streik (s) | la grève |
+| streiken/ die Arbeit nieder/ legen | faire grève |
+| das Unternehmen (-) | l'entreprise |
+| der Unternehmer (-) | l'entrepreneur |
+| unternehmen (a o i) | entreprendre |
+| der Betrieb (e) | l'entreprise |
+| der Konzern (e) | la multinationale |
+| die Firma (en) | la firme |
+| die Gesellschaft (en) | la société |
+| das duale System (e) | le système de formation en alternance |
+| der Lehrling (e) | l'apprenti |
+| der Auszubildende (adj) der Azubi (s) | la personne en formation |
+| die Rente (n) | la retraite (situation/allocation) |
+| der Ruhestand | la retraite (situation) |
+| der Vorruhestand | la retraite anticipée ou forcée |
+| der Rentner (-) | le retraité |
+| im Ruhestand/ in Rente sein | être à la retraite |
