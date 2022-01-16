@@ -1,4 +1,5 @@
 # mots anglais environment part 1
+
 ## New technologies, innovation, space and science
 |||
 |:---|:---|
@@ -18,6 +19,7 @@
 | disruptive | pertubateur/trice |
 | to benefit someone | profiter à/bénéficier à quelqu'un |
 | to benefit from something | bénéficier de quelque chose |
+
 ## Bioethics
 |||
 |:---|:---|
@@ -61,6 +63,7 @@
 | the precautionary principle | le principe de précaution |
 | long-term effects/short-term effects | effets à long/court terme |
 | in the long/short run | à long/court terme |
+
 ## Research and technology
 |||
 |:---|:---|
@@ -107,6 +110,7 @@
 | a laptop | un ordinateur portable |
 | wireless | sans-fil |
 | a sensor | un capteur |
+
 ## Space
 |||
 |:---|:---|
@@ -127,6 +131,7 @@
 | remote-controlled | télécommandé |
 | satnav (satellite navigation) | le GPS (global positioning system) |
 | an astronaut/a cosmonaut | un astronaute/un cosmonaute |
+
 ## Computer science
 |||
 |:---|:---|
@@ -156,6 +161,7 @@
 | to keep tabs on someone/to keep an eye on someone | avoir quelqu'un à l'oeil |
 | to spy on someone/to snoop on someone | espionner quelqu'un |
 | to track someone | suivre quelqu'un à la trace |
+
 ## The Internet and new technologies
 |||
 |:---|:---|
@@ -194,6 +200,7 @@
 | cyber theft/data theft | le vol de données électroniques |
 | identity theft | le vol d'identité |
 | Microsoft Wikipedia Google | Microsoft Wikipédia Google |
+
 ## Hacking
 |||
 |:---|:---|

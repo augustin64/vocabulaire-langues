@@ -23,7 +23,7 @@ json_to_md ()
 			echo "$line" | sed -e 's/"//g' -e 's/,//g' | awk -F: '{print "| "$1 " |" $2 " |"}' >> "$o"
 		elif [[ "$line" == *":"*"{"* ]]; then
 			theme_title=$(echo "$line" | sed -e 's/"//g' -e 's/{//g' -e 's/: //g')
-			echo -e "## $theme_title\n|||\n|:---|:---|" >> "$o"
+			echo -e "\n## $theme_title\n|||\n|:---|:---|" >> "$o"
 		fi;
 	done < "$f"
 	rm "$f"
