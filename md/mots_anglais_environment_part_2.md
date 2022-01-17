@@ -1,6 +1,6 @@
 # mots anglais environment part 2
 
-## 
+## Part 1
 |||
 |:---|:---|
 | eco-tourism/ green tourism | le tourisme écologique/ vert |
@@ -45,6 +45,10 @@
 | to breach a levee/ a dyke | rompre une digue |
 | a tsunami/ a tidal wave | un raz-de-marée |
 | a landslide | un glissement de terrain |
+
+## Part 2
+|||
+|:---|:---|
 | a mudslide | une coulée de boue |
 | a snowstorm | une tempête de neige |
 | an avalanche | une avalanche |

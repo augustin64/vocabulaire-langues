@@ -1,6 +1,6 @@
 # mots anglais environment part 3
 
-## 
+## Part 1
 |||
 |:---|:---|
 | unleaded petrol/ oil/ gas | l'essence sans plomb |
@@ -39,6 +39,10 @@
 | carbon emissions | les émissions de CO2 |
 | a programme/ program | une émission (TV radio...) |
 | man-made | anthropogénique |
+
+## Part 2
+|||
+|:---|:---|
 | cattle | le bétail |
 | livestock | l'ensemble des animaux de la ferme ou un cheptel pour le bétail |
 | livestock farming | élevage d'animaux à des fins de production alimentaire |
@@ -74,6 +78,10 @@
 | supply and demand | l'offre et la demande |
 | crude oil | le pétrole brut |
 | a barrel | un baril |
+
+## Part 3
+|||
+|:---|:---|
 | gas/ coal | gaz/ charbon |
 | an oil pipeline | un oléoduc |
 | a gas pipeline | un gazoduc |
