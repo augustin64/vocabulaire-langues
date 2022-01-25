@@ -39,6 +39,7 @@ def choose_list(json_files):
 
 
 lists = [i for i in os.listdir("listes") if ".json" in i]
+lists.sort()
 
 theme, wordlist = choose_list(lists)
 print(f"\t{'='*5}\t{theme}\t{'='*5}")
