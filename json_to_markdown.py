@@ -38,13 +38,12 @@ def phonetic(word):
     if "/" in word:
         return "/".join([ phonetic(i) for i in word.split("/")])
 
-    if word in phonetic_data :
-        return phonetic_data[word]
-    try :
-        phonetic_data[word] = get_phonetic(word, "English")
-        return phonetic_data[word]
-    except :
-        return ""
+    if word not in phonetic_data :
+        try :
+            phonetic_data[word] = get_phonetic(word, "English")
+        except :
+            phonetic_data[word] = ""
+    return phonetic_data[word]
 
 def json_to_md(file_path):
     """Converts a json file to markdown"""
@@ -88,4 +87,4 @@ for file in files :
     json_to_md(file)
 
 with open(".phonetic_cache.json", "w") as f:
-    json.dump(phonetic_data, f)
+    json.dump(phonetic_data, f, indent=4)
