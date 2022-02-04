@@ -1,4 +1,5 @@
 # mots anglais environment part 1
+
 ## New technologies, innovation, space and science
 ||||
 |:---|:---|:---|
@@ -18,6 +19,7 @@
 | disruptive | pertubateur/trice | dɪsˈrʌptɪv |
 | to benefit someone | profiter à/bénéficier à quelqu'un | ˈtu ˈbɛnɪfɪt ˈsʌmwʌn |
 | to benefit from something | bénéficier de quelque chose | ˈtu ˈbɛnɪfɪt ˈfrɒm ˈsʌmθɪŋ |
+
 ## Bioethics
 ||||
 |:---|:---|:---|
@@ -61,6 +63,7 @@
 | the precautionary principle | le principe de précaution | ˈðə prɪˈkɔːʃənəri ˈprɪnsɪpəl |
 | long-term effects/short-term effects | effets à long/court terme | ˌlɒŋˈtɜːrm ɪˈfɛkts/ˌʃɔːrtˈtɜːrm ɪˈfɛkts |
 | in the long/short run | à long/court terme | ˌaɪˈɛn ˈðə ˈlɒŋ/ˈʃɔːrt ˈrʌn |
+
 ## Research and technology
 ||||
 |:---|:---|:---|
@@ -107,6 +110,7 @@
 | a laptop | un ordinateur portable | eɪ ˈlæptɒp |
 | wireless | sans-fil | ˈwaɪərləs |
 | a sensor | un capteur | eɪ ˈsɛnsər |
+
 ## Space
 ||||
 |:---|:---|:---|
@@ -127,6 +131,7 @@
 | remote-controlled | télécommandé | rɪˌməʊtkənˈtrəʊld |
 | satnav (satellite navigation) | le GPS (global positioning system) |    |
 | an astronaut/a cosmonaut | un astronaute/un cosmonaute | ˈæn ˈæstrənɔːt/eɪ ˈkɒzmənɔːt |
+
 ## Computer science
 ||||
 |:---|:---|:---|
@@ -156,6 +161,7 @@
 | to keep tabs on someone/to keep an eye on someone | avoir quelqu'un à l'oeil | ˈtu ˈkiːp  ˈɒn ˈsʌmwʌn/ˈtu ˈkiːp ˈæn ˈaɪ ˈɒn ˈsʌmwʌn |
 | to spy on someone/to snoop on someone | espionner quelqu'un | ˈtu ˈspaɪ ˈɒn ˈsʌmwʌn/ˈtu ˈsnuːp ˈɒn ˈsʌmwʌn |
 | to track someone | suivre quelqu'un à la trace | ˈtu ˈtræk ˈsʌmwʌn |
+
 ## The Internet and new technologies
 ||||
 |:---|:---|:---|
@@ -194,6 +200,7 @@
 | cyber theft/data theft | le vol de données électroniques |  ˈθɛft/ˈdɑːtə ˈθɛft |
 | identity theft | le vol d'identité | aɪˈdɛntɪti ˈθɛft |
 | Microsoft, Wikipedia, Google | Microsoft, Wikipédia, Google |   ˈɡuːɡəl |
+
 ## Hacking
 ||||
 |:---|:---|:---|

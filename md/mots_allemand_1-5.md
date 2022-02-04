@@ -1,4 +1,5 @@
 # mots allemand 1-5
+
 ## Energie und Energiewende
 |||
 |:---|:---|
@@ -58,6 +59,7 @@
 | verursachen | causer, provoquer |
 | aus/lösen | déclencher, provoquer |
 | etwas zur Folge haben | avoir quelque chose pour conséquence |
+
 ## Umweltschutz und Klimawandel
 |||
 |:---|:---|
@@ -114,6 +116,7 @@
 | die Ökosteuer | l'écotaxe |
 | das Naturschutzgebiet (e) | la réserve naturelle, la zone protégée |
 | das Meeresschutzgebiet | la zone marine protégée |
+
 ## Verkehr und Transportmittel
 |||
 |:---|:---|
@@ -170,6 +173,7 @@
 | der Radweg (e) | la piste cyclable |
 | die Verkehrswende | la transition / révolution dans les transports |
 | der Hafen (¨) | le port |
+
 ## Bevölkerung und Migration
 |||
 |:---|:---|
@@ -227,6 +231,7 @@
 | ertrinken (a, u) + ist | se noyer |
 | einen Asylantrag ab/lehnen | repousser une demande d'asile |
 | die Abschiebung (en) | la reconduite à la frontière |
+
 ## die Arbeitswelt
 |||
 |:---|:---|

@@ -48,6 +48,8 @@ def phonetic(word):
 
 def json_to_md(file_path):
     """Converts a json file to markdown"""
+    if ".json" not in file_path:
+        return
     filename = file_path.split("/")[-1]
     outfile = os.path.join(OUT, ".".join(filename.split(".")[:-1])+".md")
     lang = filename.split("_")[1]
@@ -61,9 +63,9 @@ def json_to_md(file_path):
     current = 0
     for title in in_content.keys():
         if lang == "anglais":
-            out_content += f"## {title}\n||||\n|:---|:---|:---|\n"
+            out_content += f"\n## {title}\n||||\n|:---|:---|:---|\n"
         else:
-            out_content += f"## {title}\n|||\n|:---|:---|\n"
+            out_content += f"\n## {title}\n|||\n|:---|:---|\n"
         for line in in_content[title]:
             current += 1
             if lang == "anglais":
