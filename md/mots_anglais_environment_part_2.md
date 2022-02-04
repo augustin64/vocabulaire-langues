@@ -1,5 +1,4 @@
 # mots anglais environment part 2
-
 ## Part 1
 |||
 |:---|:---|
@@ -45,7 +44,6 @@
 | to breach a levee/ a dyke | rompre une digue |
 | a tsunami/ a tidal wave | un raz-de-marée |
 | a landslide | un glissement de terrain |
-
 ## Part 2
 |||
 |:---|:---|

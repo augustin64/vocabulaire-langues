@@ -1,11 +1,10 @@
 # mots anglais environment part 1
-
 ## New technologies, innovation, space and science
 |||
 |:---|:---|
 | a thorny/tricky issue | un problème épineux/délicat |
 | an ethical issue | un problème éthique |
-| unethical | moralement contestable contraire à l'éthique |
+| unethical | moralement contestable, contraire à l'éthique |
 | code of ethics | déontologie |
 | code of conduct | code de conduite |
 | to outlaw questionable practices | interdire des pratiques contestables |
@@ -14,12 +13,11 @@
 | to spark a debate | susciter un débat |
 | to be a cause for concern | être source d'inquiétude |
 | to cause public outrage | scandaliser l'opinion |
-| to cause an outcry | susciter un tollé une levée de boucliers |
+| to cause an outcry | susciter un tollé, une levée de boucliers |
 | to cause an uproar | susciter une tempête de protestations |
 | disruptive | pertubateur/trice |
 | to benefit someone | profiter à/bénéficier à quelqu'un |
 | to benefit from something | bénéficier de quelque chose |
-
 ## Bioethics
 |||
 |:---|:---|
@@ -43,9 +41,9 @@
 | organ harvesting | prélèvement d'organe illégal |
 | medical tourism | tourisme médical |
 | human/therapeutic/reproductive cloning (-> a clone) | le clonage humain/thérapeutique/reproductif |
-| to tamper with nature | toucher à la nature la modifier |
+| to tamper with nature | toucher à la nature, la modifier |
 | genetics | la génétique |
-| genetic | (adj |
+| genetic | (adj:) génétique |
 | a gene | un gène |
 | DNA | ADN |
 | genetic screening | le dépistage génétique |
@@ -63,7 +61,6 @@
 | the precautionary principle | le principe de précaution |
 | long-term effects/short-term effects | effets à long/court terme |
 | in the long/short run | à long/court terme |
-
 ## Research and technology
 |||
 |:---|:---|
@@ -75,16 +72,16 @@
 | data | des données |
 | biometric data | données biométriques |
 | evidence | des preuves |
-| knowledge | la connaissance le savoir |
+| knowledge | la connaissance, le savoir |
 | to do research | faire de la recherche |
-| to search | chercher quelque chose fouiller examiner |
+| to search | chercher quelque chose, fouiller, examiner |
 | to do/conduct studies | mener des recherches au sens d'études scientifiques |
 | cutting-edge research | la recherche de pointe |
 | groundbreaking research | des recherches révolutionnaires |
 | a laboratory [ləˈbɒrətəri] | un laboratoire |
 | a researcher | un/e chercheur/euse |
-| to conduct a study | mener réaliser une étude |
-| findings | conclusions résultats |
+| to conduct a study | mener, réaliser une étude |
+| findings | conclusions, résultats |
 | a breakthrough | une percée |
 | a scholar | un érudit |
 | an academic | un universitaire |
@@ -101,7 +98,7 @@
 | AI | l'intelligence artificielle |
 | to operate a system | faire fonctionner un système |
 | to be tech-savvy | être calé en matière de technologie |
-| to be savvy | s'y connaître en quelque chose avoir de la jugeotte |
+| to be savvy | s'y connaître en quelque chose, avoir de la jugeotte |
 | a buff | un fana (de quelque chose) |
 | state-of-the-art | dernier cri |
 | a mobile phone/ a cell phone | un téléphone portable |
@@ -110,7 +107,6 @@
 | a laptop | un ordinateur portable |
 | wireless | sans-fil |
 | a sensor | un capteur |
-
 ## Space
 |||
 |:---|:---|
@@ -131,7 +127,6 @@
 | remote-controlled | télécommandé |
 | satnav (satellite navigation) | le GPS (global positioning system) |
 | an astronaut/a cosmonaut | un astronaute/un cosmonaute |
-
 ## Computer science
 |||
 |:---|:---|
@@ -146,7 +141,7 @@
 | digital natives | ceux qui sont nés à l'âge de l'informatique |
 | a chip | une puce électronique |
 | a virus | un virus |
-| to hack into a system | pirater fare du piratage informatique entrer par effraction dans un système |
+| to hack into a system | pirater, fare du piratage informatique, entrer par effraction dans un système |
 | to crack a code | décrypter un code |
 | digital piracy | le piratage sur Internet |
 | a bug | un bogue |
@@ -154,14 +149,13 @@
 | a camera | un appareil photo ou une caméra |
 | videosurveillance | vidéosurveillance |
 | a surveillance society | une société surveillée |
-| privacy | la vie privée l'intimitée |
+| privacy | la vie privée, l'intimitée |
 | to breach/to violate someone's privacy / to intrude upon someone's privacy | porter atteinte à / violer la vie privée de quelqu'un |
 | to breach of privacy/a privacy violation | une atteinte à la vie privée |
 | to monitor someone | surveiller quelqu'un de près |
 | to keep tabs on someone/to keep an eye on someone | avoir quelqu'un à l'oeil |
 | to spy on someone/to snoop on someone | espionner quelqu'un |
 | to track someone | suivre quelqu'un à la trace |
-
 ## The Internet and new technologies
 |||
 |:---|:---|
@@ -194,25 +188,24 @@
 | censorship | la censure/to censure |
 | surveillance society | société sous surveillance |
 | an app/application by Google | une application développée/exploitée par Google |
-| a device | un appareil un système un dispositif |
+| a device | un appareil, un système, un dispositif |
 | online shopping | le commerce en ligne |
 | to cybershop | faire ses courses en lignes |
 | cyber theft/data theft | le vol de données électroniques |
 | identity theft | le vol d'identité |
-| Microsoft Wikipedia Google | Microsoft Wikipédia Google |
-
+| Microsoft, Wikipedia, Google | Microsoft, Wikipédia, Google |
 ## Hacking
 |||
 |:---|:---|
-| digital piracy/online piracy | le téléchargement illégal de musiques films applications etc |
+| digital piracy/online piracy | le téléchargement illégal de musiques, films, applications, etc |
 | the music industry/the entertainment industry | l'industrie de la musique/l'industrie du divertissement |
 | the distribution of ... | la diffusion de ... |
 | to charge someone for something | faire payer financièrement quelqu'un pour quelque chose |
-| a fee | prix frais |
+| a fee | prix, frais |
 | copyright infrigement | atteinte aux droits d'auteur |
 | copyright losses | les pertes sur les droits d'auteurs |
 | right holders | les détenteurs de droits d'auteur |
-| to infringe on | léser porter atteinte à |
+| to infringe on | léser, porter atteinte à |
 | intellectual property | la propriété intellectuelle |
 | to crack down (on someone/something) | réprimer (quelqu'un/quelque chose) |
 | regulation | la règlementation |

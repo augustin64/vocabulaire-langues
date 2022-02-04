@@ -1,5 +1,4 @@
 # mots anglais environment part 3
-
 ## Part 1
 |||
 |:---|:---|
@@ -19,13 +18,13 @@
 | asbestos | l'amiante |
 | an oil slick | une marée noire |
 | an oil spill | un déversement accidentel de pétrole |
-| to spill | renverser répandre |
+| to spill | renverser, répandre |
 | to empty one's tank/ to flush out one's tank | dégazer |
 | a leak | une fuite |
 | hazardous waste | déchêts dangereux |
 | a waste collection center | une déchetterie |
 | an illicit rubbish dump | une décharge sauvage |
-| to bury | enterrer enfouir (déchêts/ être humains) |
+| to bury | enterrer, enfouir (déchêts/ être humains) |
 | a landfill | un site d'enfouissement des ordures |
 | an incinerator | un incinérateur |
 | the storage of nuclear waste | le stockage des déchêts nucléaires |
@@ -37,9 +36,8 @@
 | shale gas | le gaz de schiste |
 | carbon dioxide/ to emit carbon dioxide | émettre du CO2 |
 | carbon emissions | les émissions de CO2 |
-| a programme/ program | une émission (TV radio...) |
+| a programme/ program | une émission (TV, radio...) |
 | man-made | anthropogénique |
-
 ## Part 2
 |||
 |:---|:---|
@@ -78,7 +76,6 @@
 | supply and demand | l'offre et la demande |
 | crude oil | le pétrole brut |
 | a barrel | un baril |
-
 ## Part 3
 |||
 |:---|:---|
@@ -102,7 +99,7 @@
 | a windfarm | un parc d'éoliennes |
 | solar energy | l'énergie solaire |
 | a solar panel | un panneau solaire |
-| biofuels/ bioethanol/ biomass | bioénergie biomasse etc |
+| biofuels/ bioethanol/ biomass | bioénergie, biomasse, etc |
 | geothermal energy | l'énergie géothermique |
 | a heat pump | une pompe à chaleur |
 | a zero-carbon policy | une politique zéro carbone |
