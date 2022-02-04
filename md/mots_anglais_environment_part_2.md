@@ -1,7 +1,7 @@
 # mots anglais environment part 2
 ## Part 1
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | eco-tourism/ green tourism | le tourisme écologique/ vert | ˌiːkəʊˈtʊərɪzəm/ ˈɡriːn ˈtʊərɪzəm |
 | to destroy the biosphere | détruire la biosphère | ˈtu dɪˈstrɔɪ ˈðə ˈbaɪəsfɪər |
 | a conservation area | un secteur sauvegardé | eɪ ˌkɒnsərˈveɪʃən ˈɛəriə |
@@ -45,8 +45,8 @@
 | a tsunami/ a tidal wave | un raz-de-marée | eɪ tsʊˈnɑːmi/ eɪ ˈtaɪdəl ˈweɪv |
 | a landslide | un glissement de terrain | eɪ ˈlændslaɪd |
 ## Part 2
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | a mudslide | une coulée de boue | eɪ ˈmʌdslaɪd |
 | a snowstorm | une tempête de neige | eɪ ˈsnəʊstɔːrm |
 | an avalanche | une avalanche | ˈæn ˈævəlɑːntʃ |

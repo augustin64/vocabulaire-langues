@@ -1,7 +1,7 @@
 # mots anglais environment part 3
 ## Part 1
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | unleaded petrol/ oil/ gas | l'essence sans plomb | ˌʌnˈlɛdɪd ˈpɛtrəl/ ˈɔɪl/ ˈgæs |
 | a catalytic converter | un pot catalytique | eɪ ˌkætəˈlɪtɪk kənˈvɜːrtər |
 | a hybrid car | une voiture hybride | eɪ ˈhaɪbrɪd ˈkɑːr |
@@ -39,8 +39,8 @@
 | a programme/ program | une émission (TV, radio...) | eɪ ˈprəʊgræm/ ˈprəʊgræm |
 | man-made | anthropogénique | ˌmænˈmeɪd |
 ## Part 2
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | cattle | le bétail | ˈkætəl |
 | livestock | l'ensemble des animaux de la ferme ou un cheptel pour le bétail | ˈlaɪvstɒk |
 | livestock farming | élevage d'animaux à des fins de production alimentaire | ˈlaɪvstɒk ˈfɑːrmɪŋ |
@@ -77,8 +77,8 @@
 | crude oil | le pétrole brut | ˈkruːd ˈɔɪl |
 | a barrel | un baril | eɪ ˈbærəl |
 ## Part 3
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | gas/ coal | gaz/ charbon | ˈgæs/ ˈkəʊl |
 | an oil pipeline | un oléoduc | ˈæn ˈɔɪl ˈpaɪplaɪn |
 | a gas pipeline | un gazoduc | eɪ ˈgæs ˈpaɪplaɪn |

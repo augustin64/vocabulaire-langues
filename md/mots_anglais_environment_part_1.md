@@ -1,7 +1,7 @@
 # mots anglais environment part 1
 ## New technologies, innovation, space and science
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | a thorny/tricky issue | un problème épineux/délicat | eɪ ˈθɔːrni/ˈtrɪki ˈɪʃuː |
 | an ethical issue | un problème éthique | ˈæn ˈɛθɪkəl ˈɪʃuː |
 | unethical | moralement contestable, contraire à l'éthique | ˌʌnˈɛθɪkəl |
@@ -19,8 +19,8 @@
 | to benefit someone | profiter à/bénéficier à quelqu'un | ˈtu ˈbɛnɪfɪt ˈsʌmwʌn |
 | to benefit from something | bénéficier de quelque chose | ˈtu ˈbɛnɪfɪt ˈfrɒm ˈsʌmθɪŋ |
 ## Bioethics
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | a cell | une cellule | eɪ ˈsɛl |
 | a stem cell | une cellule souche | eɪ ˈstɛm ˈsɛl |
 | research | la recherche | rɪˈsɜːrtʃ |
@@ -62,8 +62,8 @@
 | long-term effects/short-term effects | effets à long/court terme | ˌlɒŋˈtɜːrm ɪˈfɛkts/ˌʃɔːrtˈtɜːrm ɪˈfɛkts |
 | in the long/short run | à long/court terme | ˌaɪˈɛn ˈðə ˈlɒŋ/ˈʃɔːrt ˈrʌn |
 ## Research and technology
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | a scientist | un/e scientifique (la profession) | eɪ ˈsaɪəntɪst |
 | scientific | (adj) scientifique | ˌsaɪənˈtɪfɪk |
 | scientific progress | les progrès scientifiques | ˌsaɪənˈtɪfɪk ˈprəʊgrɛs |
@@ -108,8 +108,8 @@
 | wireless | sans-fil | ˈwaɪərləs |
 | a sensor | un capteur | eɪ ˈsɛnsər |
 ## Space
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | National Aeronautics and Space Administration | NASA | ˈnæʃənəl ˌɛərəˈnɔːtɪks ˈænd ˈspeɪs ədˌmɪnɪˈstreɪʃən |
 | European Space Agency | ESA | ˌjʊərəˈpɪən ˈspeɪs ˈeɪdʒənsi |
 | the conquest of space | la conquête de l'espace | ˈðə ˈkɒnkwɛst ˈɒv ˈspeɪs |
@@ -128,8 +128,8 @@
 | satnav (satellite navigation) | le GPS (global positioning system) |    |
 | an astronaut/a cosmonaut | un astronaute/un cosmonaute | ˈæn ˈæstrənɔːt/eɪ ˈkɒzmənɔːt |
 ## Computer science
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | a computer scientist | un informaticien | eɪ kəmˈpjuːtər ˈsaɪəntɪst |
 | IT (Information Technology/ies) | l'informatique | ˌaɪˈtiː  tɛkˈnɒlədʒi/ |
 | computing | l'informatique au sens de calcul de données | kəmˈpjuːtɪŋ |
@@ -157,8 +157,8 @@
 | to spy on someone/to snoop on someone | espionner quelqu'un | ˈtu ˈspaɪ ˈɒn ˈsʌmwʌn/ˈtu ˈsnuːp ˈɒn ˈsʌmwʌn |
 | to track someone | suivre quelqu'un à la trace | ˈtu ˈtræk ˈsʌmwʌn |
 ## The Internet and new technologies
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | the Internet of Things (IoT) | les objets connectés | ˈðə ˈɪntəˌnɛt ˈɒv   |
 | home automation | la domotique | ˈhəʊm ˌɔːtəˈmeɪʃən |
 | information highways | les autoroutes de l'information | ˌɪnfərˈmeɪʃən  |
@@ -195,8 +195,8 @@
 | identity theft | le vol d'identité | aɪˈdɛntɪti ˈθɛft |
 | Microsoft, Wikipedia, Google | Microsoft, Wikipédia, Google |   ˈɡuːɡəl |
 ## Hacking
-|||
-|:---|:---|
+||||
+|:---|:---|:---|
 | digital piracy/online piracy | le téléchargement illégal de musiques, films, applications, etc | ˈdɪdʒɪtəl ˈpaɪrəsi/ˌɒnˈlaɪn ˈpaɪrəsi |
 | the music industry/the entertainment industry | l'industrie de la musique/l'industrie du divertissement | ˈðə ˈmjuːzɪk ˈɪndəstri/ˈðə ˌɛntərˈteɪnmənt ˈɪndəstri |
 | the distribution of ... | la diffusion de ... | ˈðə ˌdɪstrɪˈbjuːʃən ˈɒv  |
