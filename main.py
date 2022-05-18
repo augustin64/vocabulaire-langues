@@ -19,16 +19,17 @@ except ModuleNotFoundError:
         """Prompt alternatif si le module enquiries n'est pas installé"""
         print(query)
         print(
-            "\n".join(["{}. {}".format(i + 1, options[i]) for i in range(len(options))])
+            "\n".join([f"{i+1}. {options[i]}" for i in range(len(options))])
         )
         response = int(input("> "))
         return options[response - 1]
+
 
 def choose_list(json_files):
     """Fonction d'initialisation du programme,
     durant laquelle l'utilisateur choisit la liste qu'il souhaite"""
     chosen_file = choose("Which word list do you want to work ?", json_files)
-    with open("listes/" + chosen_file) as file:
+    with open("listes/" + chosen_file, "r", encoding="utf8") as file:
         json_data = json.load(file)
 
         chosen_theme = choose("Which part do you want to work ?", json_data.keys())

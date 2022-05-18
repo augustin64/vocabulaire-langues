@@ -69,11 +69,12 @@ def json_to_md(file_path):
             current += 1
             if lang == "anglais":
                 out_content += f"| {line} | {in_content[title][line]} | {phonetic(line)} |\n"
-                print(f"{filename}: ({current}/{length})")
+                print(f"{filename}: ({current}/{length})", end='\r')
             else:
                 out_content += f"| {line} | {in_content[title][line]} |\n"
     with open(outfile, "w", encoding="utf8") as file:
         file.write(out_content)
+    print()
 
 if len(sys.argv) == 1 :
     files = [ "listes/" + i for i in os.listdir("listes")]
